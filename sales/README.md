@@ -1,0 +1,5 @@
+## Sales 
+#### Quiz
+
+ABC has 150 salespersons . Write a c++ program to input for each salesperson , name , region of sale , and number of units of product sold and to determine and output for each salesperson , salesvalue and net salescommission earned. There are three regions : X, Y and Z.A salesperson sells in only one  region. Value  of sales is the product of units sold and price per unit of product . Price per unit sold is sh. 1400 . Sales commission is paid at the rate of 15% of sales values in region X, 18 % in reqion Y and 19% in  region Z. Sales commission is 20% of sales value. A salesperson is also paid sh 10 for every unit sold above 300 units in Region Z . This increases the salesperson's commission earned. Sales commission tax  is 10% of the sales commission of over sh 25000. Otherwise sales commission tax = 0. Net sales commission is sales commission less tax. The program should also accumulate totals of sales commission according to region of sales and should output them per region when the program execution is ending . The progra, should use a function for determining tax.
+  
