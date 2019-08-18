@@ -7,8 +7,10 @@ solve for S in  the following expression
 S = -(1/1)+(3/5)-(5/10)+(7/15)-(9/20)+...-(401/1000) 
 `
 __Qt 5.12  has been used __
+
 ##  Pre-requisites
 make sure to have Qt 5.12 installed in your system
+
 __ Follow my installation quite at my Qt repo__
 
 ##  Compilation
