@@ -1,7 +1,5 @@
 #include <iostream>
 #include <algorithm>
-#include <cctype>//this two libraries helps in trimming strings 
-#include <locale>
 #include  <boost/algorithm/string.hpp>//trims strings with spaces
 
 
